@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Estudante Front-End e Futuro FullStacker<br>🧠 Conhecimento em C# .NET<br>💻  Techs: HTML, CSS e JavaScript<br>🖥️ Desenvolvimento Web com ReactJS<br>📱   Desenvolvimento Mobile com React-Native<br>⌨️ Back-End: NodeJS
+✨ Desenvolvedor Mobile<br>🧠 Conhecimento em C# .NET<br>💻  Techs: HTML, CSS e JavaScript<br>📱   Desenvolvimento Mobile com React-Native<br>⌨️ Back-End: NodeJS
 
 
 ## 🌐 Socials:
