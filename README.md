@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Desenvolvedor Mobile<br>🧠 Conhecimento em C# .NET<br>💻  Techs: HTML, CSS e JavaScript<br>📱   Desenvolvimento Mobile com React-Native<br>⌨️ Back-End: NodeJS
+✨ Desenvolvedor Mobile<br>💻  Techs: HTML, CSS e JavaScript<br>📱   Desenvolvimento Mobile com React-Native
 
 
 ## 🌐 Socials:
